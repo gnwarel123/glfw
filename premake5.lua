@@ -51,6 +51,7 @@ project "GLFW"
 		}
 
 	filter "system:windows"
+	
 		systemversion "latest"
 
 		files
